@@ -13,17 +13,19 @@
   - `alt` + `shift` + `l`: move window to bottom half of screen
   - `alt` + `shift` + `-`: move window to center of screen (small)
   - `alt` + `shift` + `+`: move window to center of screen (full)
+- Wunderlist
+  - Clean, simple todo list
 
 ## Pro Tips
 
-### Remap `cmd` + `q` in apps you don't want to accidently quit:
+### Remap `cmd` + `q` in apps you don't want to accidently quit
 
 ```
 > System Preferences
 > Keyboard
 > Shortcuts
 > App Shortcuts
-> Click +
+> Click "+" to create a new shortcut
 > Name it exactly what is in the menu item, e.g. "Quit Google Chrome"
 > Choose the new shortcut
 ```
