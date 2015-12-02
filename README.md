@@ -13,6 +13,7 @@
   - `alt` + `shift` + `l`: move window to bottom half of screen
   - `alt` + `shift` + `-`: move window to center of screen (small)
   - `alt` + `shift` + `+`: move window to center of screen (full)
+  - Press the same shortcut twice in a row to send the window to the next screen
 - Wunderlist
   - Clean, simple todo list
 
