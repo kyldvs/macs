@@ -31,6 +31,15 @@
 > Choose the new shortcut
 ```
 
+### Enable Tab to move focus of items
+
+```
+> System Preferences
+> Keyboard
+> Shortcuts
+> All controls (at the bottom)
+```
+
 ## Names of apps you can never remember
 
 - Activity Monitor
