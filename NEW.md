@@ -53,23 +53,25 @@ This is the process I went through after getting a new Mac. This is installation
 20. Remap quit for Google Chrome
   - System Preferences > Keyboard > Shortcuts > App Shortcuts
   - Add entry with menu title: "Quit Google Chrome" and pick desired shortcut (`cmd` + `option` + `q`
-21. Install apps from app store
+21. Install Bartender 2
+  - Download here: https://www.macbartender.com/
+  - Launch and configure settings
+22. Install apps from app store
   - DaisyDisk, Wunderlist, Evernote, Dashlane
-22. Make apps launch on startup
+23. Make apps launch on startup
   - System Preferences > Users & Groups > Login Items
   - Alfred 2 (hide)
+  - Bartender 2 (hide)
   - Microsoft Outlook
   - Divvy (hide)
   - RDM (hide)
   - Wunderlist
   - Utilities > Activity Monitor
-23. Update desktop
+24. Update desktop
   - Find a wallpaper you like: https://www.reddit.com/r/wallpaperdump/top/?sort=top&t=all
   - System Preferences > Desktop & Screen Saver
   - Select wallpaper
-24. Hide desktop icon
+25. Hide desktop icon
   - Run this in your terminal: `defaults write com.apple.finder CreateDesktop -bool false`
   - This will not take affect until you restart
-25. Restart your desktop and make things launch in a sane way, and verify there are no desktop icons
-
-TODO: Set folder where screenshots are saved
+26. **Checkpoint: Restart your desktop and make things launch in a sane way, and verify there are no desktop icons**
