@@ -30,6 +30,10 @@
 - Wunderlist
   - Clean, simple todo list
 
+## Apps that you may like to install
+
+- Letterspace
+
 ## Pro Tips
 
 ### Remap `cmd` + `q` in apps you don't want to accidently quit
