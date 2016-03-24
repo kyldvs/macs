@@ -68,6 +68,8 @@ This is the process I went through after getting a new Mac. This is installation
   - System Preferences > Desktop & Screen Saver
   - Select wallpaper
 24. Hide desktop icon
-  - TODO
+  - Run this in your terminal: `defaults write com.apple.finder CreateDesktop -bool false`
+  - This will not take affect until you restart
+25. Restart your desktop and make things launch in a sane way, and verify there are no desktop icons
 
 TODO: Set folder where screenshots are saved
