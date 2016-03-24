@@ -50,8 +50,24 @@ This is the process I went through after getting a new Mac. This is installation
 19. Configure Alfred settings
   - Launch with `cmd` + `space`, and other settings
   - Activate Powerpack if you have it
-  
-TODO: Make things launch on startup (RDM, Divvy, Activity Monitor, Outlook, Wunderlist)
+20. Remap quit for Google Chrome
+  - System Preferences > Keyboard > Shortcuts > App Shortcuts
+  - Add entry with menu title: "Quit Google Chrome" and pick desired shortcut (`cmd` + `option` + `q`
+21. Install apps from app store
+  - DaisyDisk, Wunderlist, Evernote, Dashlane
+22. Make apps launch on startup
+  - System Preferences > Users & Groups > Login Items
+  - Alfred 2 (hide)
+  - Microsoft Outlook
+  - Divvy (hide)
+  - RDM (hide)
+  - Wunderlist
+  - Utilities > Activity Monitor
+23. Update desktop
+  - Find a wallpaper you like: https://www.reddit.com/r/wallpaperdump/top/?sort=top&t=all
+  - System Preferences > Desktop & Screen Saver
+  - Select wallpaper
+24. Hide desktop icon
+  - TODO
 
-TODO: Multiple screens and swiping between spaces
-  
+TODO: Set folder where screenshots are saved
