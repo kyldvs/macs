@@ -74,7 +74,7 @@ This is the process I went through after getting a new Mac. Here I do my best to
 25. Hide desktop icons
   - Run this in your terminal: `defaults write com.apple.finder CreateDesktop -bool false`
   - This will not take affect until you restart
-26. **Checkpoint: Restart your desktop and make things launch in a sane way, and verify there are no desktop icons**
+26. **Checkpoint: Restart your laptop to make sure things launch in a sane way, also verify there are no desktop icons**
 27. Install homebrew
   - http://brew.sh/
 28. Install mosh
