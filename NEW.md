@@ -1,4 +1,4 @@
-# From scratch
+# Setting up a new Mac
 
 This is the process I went through after getting a new Mac. Here I do my best to document every little thing I did to get into a comfortable working state.
 
@@ -103,3 +103,5 @@ This is the process I went through after getting a new Mac. Here I do my best to
 37. Open iTerm on space 3
   - Long press iterm icon in dock > options
   - Select "This Desktop"
+
+[Check out more about my workflow here!](workflow.md)
