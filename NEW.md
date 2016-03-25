@@ -84,8 +84,6 @@ This is the process I went through after getting a new Mac. This is installation
   - Add to public key to github
   - Edit local ssh config to tell which github key to use
     - http://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use
+30. Setup terminal aliases etc.
+  - https://github.com/kyldvs/konfig
 
-
-27. Setup terminal aliases etc.
-  - 
-28. 
