@@ -1,6 +1,6 @@
 # From scratch
 
-This is the process I went through after getting a new Mac. This is installation and configuration of the mac.
+This is the process I went through after getting a new Mac.
 
 1. Setup Chrome
   - Open and log in to Chrome
