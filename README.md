@@ -47,3 +47,4 @@
 ## Names of apps you can never remember
 
 - Activity Monitor
+- Console (not actually a console, shows system logs)
