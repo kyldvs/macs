@@ -78,9 +78,9 @@ This is the process I went through after getting a new Mac. This is installation
 27. Install homebrew
   - http://brew.sh/
 28. Install mosh
-  - `brew install mosh`
+  - Run in terminal: `brew install mosh`
 29. Generate new ssh key and add to github
-  - `ssh-keygen`
+  - Run in terminal: `ssh-keygen`
   - Add to public key to github
   - Edit local ssh config to tell which github key to use
     - http://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use
