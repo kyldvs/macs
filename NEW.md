@@ -75,3 +75,17 @@ This is the process I went through after getting a new Mac. This is installation
   - Run this in your terminal: `defaults write com.apple.finder CreateDesktop -bool false`
   - This will not take affect until you restart
 26. **Checkpoint: Restart your desktop and make things launch in a sane way, and verify there are no desktop icons**
+27. Install homebrew
+  - http://brew.sh/
+28. Install mosh
+  - `brew install mosh`
+29. Generate new ssh key and add to github
+  - `ssh-keygen`
+  - Add to public key to github
+  - Edit local ssh config to tell which github key to use
+    - http://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use
+
+
+27. Setup terminal aliases etc.
+  - 
+28. 
