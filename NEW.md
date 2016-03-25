@@ -89,3 +89,7 @@ This is the process I went through after getting a new Mac. This is installation
 31. Add alias for devserver to `~/.ssh/config`
 32. Verify ablitiy to connect to devserver through terminal
 33. Verify ability to connect to devserver through atom (nuclide)
+34. Setup nuclide settings
+  - `cmd` + `shift` + `o` for file open
+  - `atom-material-ui` ui theme
+  - `monokai` syntax theme
