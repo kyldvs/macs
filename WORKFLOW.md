@@ -9,9 +9,9 @@ at home, on the shuttle, in an airport, at a hackathon, etc. I do not want to re
 
 I generally have 3 "Spaces" where I do different things.
 
-Space 1: All my misc applications: chrome, outlook, wunderlist, activity monitor, etc.
-Space 2: Code editor (Nuclide)
-Space 3: Terminals (iTerm)
+- Space 1: All my misc applications: chrome, outlook, wunderlist, activity monitor, etc.
+- Space 2: Code editor (Nuclide)
+- Space 3: Terminals (iTerm)
 
 While on space 2 or 3 I do not need to change windows, I am on those spaces for a particular task. On space 1 I frequenly
 switch windows to the applications I want to use.
@@ -27,10 +27,10 @@ While on a space to quickly switch applications swipe up with 3 fingers and sele
 I use Divvy as a window manager. It's super simple to set up and basically just works. I have very few shortcuts, but use
 them frequently. They are all structured: `option` + `shift` + <some key>.
 
-j: move window to left half
-k: move window to right half
--: move window to center minimized (minus key)
-=: move window to center maximized (plus key)
+- `j`: move window to left half
+- `k`: move window to right half
+- `-`: move window to center minimized (minus key)
+- `+`: move window to center maximized (plus key)
 
 ![divvy setup](divvy-setup.png)
 
