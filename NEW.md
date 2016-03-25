@@ -104,4 +104,4 @@ This is the process I went through after getting a new Mac. Here I do my best to
   - Long press iterm icon in dock > options
   - Select "This Desktop"
 
-[Check out more about my workflow here!](workflow.md)
+[Check out more about my workflow here!](WORKFLOW.md)
