@@ -20,7 +20,7 @@ To switch between spaces swipe 3 fingers left or right.
 
 While on a space to quickly switch applications swipe up with 3 fingers and select the application:
 
-![switch applications](images/switch-applications.png)
+![switch applications](switch-applications.png)
 
 ## Window manager
 
@@ -32,7 +32,7 @@ k: move window to right half
 -: move window to center minimized (minus key)
 =: move window to center maximized (plus key)
 
-![divvy setup](images/divvy-setup.png)
+![divvy setup](divvy-setup.png)
 
 There is an option in Divvy that you can enable where if you press any shortcut more than once the window will cycle
 through the connected screens. This is useful when doing some sort of presentation, it's easy to "throw" a window onto
