@@ -71,7 +71,7 @@ This is the process I went through after getting a new Mac. Here I do my best to
   - Find a wallpaper you like: https://www.reddit.com/r/wallpaperdump/top/?sort=top&t=all
   - System Preferences > Desktop & Screen Saver
   - Select wallpaper
-25. Hide desktop icon
+25. Hide desktop icons
   - Run this in your terminal: `defaults write com.apple.finder CreateDesktop -bool false`
   - This will not take affect until you restart
 26. **Checkpoint: Restart your desktop and make things launch in a sane way, and verify there are no desktop icons**
@@ -93,3 +93,13 @@ This is the process I went through after getting a new Mac. Here I do my best to
   - `cmd` + `shift` + `o` for file open
   - `atom-material-ui` ui theme
   - `monokai` syntax theme
+35. Setup spaces
+  - Three fingers swipe up
+  - Top far right, click + twice in order to create a total of 3 spaces
+  - Three fingers swipe left/right to move between them
+36. Open atom on space 2
+  - Long press atom icon in dock > options
+  - Select "This Desktop"
+37. Open iTerm on space 3
+  - Long press iterm icon in dock > options
+  - Select "This Desktop"
