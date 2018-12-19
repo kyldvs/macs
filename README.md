@@ -2,6 +2,7 @@
 
 ## Apps to install
 
+- Alacritty
 - Alfred
 - Bartender
 - Chrome
