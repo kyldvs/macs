@@ -41,6 +41,22 @@
 > All controls (at the bottom)
 ```
 
+### Adjust startup items
+
+```
+> Users & Groups
+> (Your User)
+> Login items
+```
+
+### Disabled Spotlight Shortcut (if using Alfred)
+
+```
+> Spotlight
+> Keyboard Shortcuts
+> Uncheck both options
+```
+
 ## Names of apps you can never remember
 
 - Activity Monitor
