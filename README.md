@@ -3,19 +3,16 @@
 ## Apps to install
 
 - Alfred
-- Bartender 2
+- Bartender
 - Chrome
 - DaisyDisk
 - Dashlane
 - Divvy
-- Evernote
+- Firefox
 - Homebrew
-- iTerm
-- Nuclide
 - RDM
 - Sketch
 - Spotify
-- Wunderlist
 
 ## Apps that you may like to install
 
