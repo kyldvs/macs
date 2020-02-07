@@ -5,19 +5,15 @@
 - Alacritty
 - Alfred
 - Bartender
+- BitWarden
 - Chrome
 - DaisyDisk
-- Dashlane
 - Divvy
 - Firefox
 - Homebrew
+- Notable
 - RDM
-- Sketch
 - Spotify
-
-## Apps that you may like to install
-
-- Letterspace
 
 ## Pro Tips
 
